@@ -3,3 +3,9 @@ def addArray(arr):
     for i in arr:
         sum+=i
     return sum
+
+def multArray(arr):
+    product = 1
+    for i in arr:
+        product*=i
+    return product
