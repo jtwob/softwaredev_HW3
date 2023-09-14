@@ -21,7 +21,7 @@ def main():
 
     print("Sum: " + str(addArray(arr)))
     print("Product: " + str(multArray(arr)))
-    print("Reversed: ", reverseArray(arr))
+    print("Reversed Order: ", reverseArray(arr))
 
 main()
     
